@@ -1,27 +1,45 @@
-# Dr. Pet's – Pet Clinic Website
+<h1>Landing Page — Pet Clinic</h1>
 
-Dr. Pet's is a responsive one-page website created for a pet clinic or veterinary service.
+<p>
+  Це односторінковий сайт для ветеринарної клініки, який дозволяє ознайомитися з послугами та записатися на прийом.
+  Проєкт реалізовано з використанням HTML, CSS, JavaScript та анімаційної бібліотеки GSAP.
+</p>
 
-The project is built using **HTML, CSS, and vanilla JavaScript**. JavaScript is used for animations (GSAP) and basic form interactions. The layout is fully responsive and works well on desktop, tablet, and mobile devices.
+<h2>Демо версія</h2>
+<p>
+  <a href="https://your-demo-link-here" target="_blank">Переглянути демо</a>
+</p>
 
-## Demo
-🔗 Live demo: https://vet-clinic-dr-pets.netlify.app/
+<h2>Функціонал проєкту</h2>
+<ul>
+  <li>Адаптивна верстка для мобільних пристроїв, планшетів та десктопів.</li>
+  <li>Плавні анімації елементів під час прокрутки (GSAP).</li>
+  <li>Інтерактивна форма запису на прийом.</li>
+  <li>Сайдбар-навігація для мобільних пристроїв.</li>
+  <li>Ховер-ефекти та плавні переходи для елементів інтерфейсу.</li>
+</ul>
 
-## Features
-- Responsive layout
-- Clean and modern UI
-- Smooth GSAP animations
-- Interactive contact/appointment form
-- Sidebar navigation for mobile devices
+<h2>Технології</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3 (структурований код та адаптивність)</li>
+  <li>JavaScript (ES6+)</li>
+  <li>GSAP 3 для анімацій</li>
+</ul>
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- GSAP for animations
+<h2>Особливості</h2>
+<ul>
+  <li>Реалістична структура сайту з секціями: хедер, hero, про клініку, послуги, команда, контакти.</li>
+  <li>Анімації оптимізовані для мобільних та планшетів: контент не зникає при прокрутці.</li>
+  <li>Код організований за принципами чистої та зрозумілої верстки.</li>
+</ul>
 
-## Project Purpose
-This project was created as a **pet project** to practice building responsive layouts, working with animations using GSAP, and handling basic form logic using pure front-end technologies without frameworks.
+<h2>Як використовувати</h2>
+<ol>
+  <li>Склонуйте репозиторій або завантажте файли.</li>
+  <li>Відкрийте файл <strong>index.html</strong> у браузері.</li>
+  <li>Сайт працює локально без додаткових налаштувань.</li>
+</ol>
 
-## How to Run
-Simply open `index.html` in your browser.
+<h2>Автор</h2>
+<p>Юлія — Front-end Developer. Проєкт створено з метою практики та покращення навичок у розробці адаптивних сайтів з анімаціями.</p>
