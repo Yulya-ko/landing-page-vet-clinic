@@ -7,7 +7,7 @@
 
 <h2>Демо версія</h2>
 <p>
-  <a href="https://your-demo-link-here" target="_blank">Переглянути демо</a>
+  <a href="https://vet-clinic-dr-pets.netlify.app/" target="_blank">Переглянути демо</a>
 </p>
 
 <h2>Функціонал проєкту</h2>
